@@ -8,3 +8,5 @@ class Pizza extends Model
 {
   //protected $table = 'some_name'
 }
+
+kk
